@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.899e8c3d.chunk.css",
+    "main.js": "/static/js/main.692d2cba.chunk.js",
+    "main.js.map": "/static/js/main.692d2cba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53937762.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53937762.js.map",
+    "static/css/2.2280284b.chunk.css": "/static/css/2.2280284b.chunk.css",
+    "static/js/2.3a680c5b.chunk.js": "/static/js/2.3a680c5b.chunk.js",
+    "static/js/2.3a680c5b.chunk.js.map": "/static/js/2.3a680c5b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2280284b.chunk.css.map": "/static/css/2.2280284b.chunk.css.map",
+    "static/css/main.899e8c3d.chunk.css.map": "/static/css/main.899e8c3d.chunk.css.map",
+    "static/js/2.3a680c5b.chunk.js.LICENSE.txt": "/static/js/2.3a680c5b.chunk.js.LICENSE.txt",
+    "static/media/Sunil_Resume.168faf28.pdf": "/static/media/Sunil_Resume.168faf28.pdf",
+    "static/media/building.20e99a3c.jpg": "/static/media/building.20e99a3c.jpg",
+    "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
+    "static/media/james.a1e65047.png": "/static/media/james.a1e65047.png",
+    "static/media/produce.46f161e9.jpg": "/static/media/produce.46f161e9.jpg",
+    "static/media/resource.c13bf4ac.JPG": "/static/media/resource.c13bf4ac.JPG",
+    "static/media/service.eb7f47f5.jpg": "/static/media/service.eb7f47f5.jpg",
+    "static/media/whistler.247333a1.jpg": "/static/media/whistler.247333a1.jpg",
+    "static/media/wrenbury.7ee241d1.jpg": "/static/media/wrenbury.7ee241d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53937762.js",
+    "static/css/2.2280284b.chunk.css",
+    "static/js/2.3a680c5b.chunk.js",
+    "static/css/main.899e8c3d.chunk.css",
+    "static/js/main.692d2cba.chunk.js"
+  ]
+}
